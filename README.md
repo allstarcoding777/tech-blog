@@ -6,7 +6,7 @@
   * ## Usage
   When a user loads the page they are presented with existing blog posts and can click on the navigation links to signup, login, view theri dashboard, or return to the home page.
   
-  ![webpage screenshot](./src/components/pages/assets/images/webpage-screenshot.png)
+  ![webpage screenshot](./public/images/webpage-screenshot.png)
 
   * ## Github Repository
   https://github.com/allstarcoding777/tech-blog
