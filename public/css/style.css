@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+ul {
+    font-size: larger;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+}
+  
+li {
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+  
+li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
