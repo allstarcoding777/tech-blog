@@ -12,6 +12,7 @@
   https://github.com/allstarcoding777/tech-blog
 
   * ## Deployed Application
+  https://tech-blog-777.herokuapp.com/
   
   * ## License
   This project is licensed under the MIT license.
