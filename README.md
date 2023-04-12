@@ -4,12 +4,9 @@
   * ## Description
   This application is a blog site where developers can publish their blog posts and comment on other developers’ posts as well. 
   * ## Usage
-  When a user loads the page they are presented with existing blog posts and can click on the navigation links to signup, login, view theri dashboard, or return to the home page.
+  When a user loads the page they are presented with existing blog posts and can click on the navigation links to signup, login, view their dashboard, or return to the home page.
   
   ![webpage screenshot](./public/images/webpage-screenshot.png)
-
-  * ## Github Repository
-  https://github.com/allstarcoding777/tech-blog
 
   * ## Deployed Application
   https://tech-blog-777.herokuapp.com/
